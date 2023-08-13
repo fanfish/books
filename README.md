@@ -1,2 +1,2 @@
 # books
-Good books to share
+Good books
